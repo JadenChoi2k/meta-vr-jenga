@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.Interaction.OVR.Samples", "Oculus.Interaction.OVR.Samples.csproj", "{64A90F3F-10AB-C2FB-8630-EB4C3E89AD1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B5A408F2-CD79-EA67-2E01-46F87D94BC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.Interaction.Samples.Editor", "Oculus.Interaction.Samples.Editor.csproj", "{20D8B352-BB41-2D36-E200-0D2CE5BFD386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A90F3F-10AB-C2FB-8630-EB4C3E89AD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A90F3F-10AB-C2FB-8630-EB4C3E89AD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A90F3F-10AB-C2FB-8630-EB4C3E89AD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A90F3F-10AB-C2FB-8630-EB4C3E89AD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A408F2-CD79-EA67-2E01-46F87D94BC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A408F2-CD79-EA67-2E01-46F87D94BC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A408F2-CD79-EA67-2E01-46F87D94BC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A408F2-CD79-EA67-2E01-46F87D94BC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D8B352-BB41-2D36-E200-0D2CE5BFD386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D8B352-BB41-2D36-E200-0D2CE5BFD386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D8B352-BB41-2D36-E200-0D2CE5BFD386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D8B352-BB41-2D36-E200-0D2CE5BFD386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

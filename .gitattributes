@@ -1,0 +1,2 @@
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.meta.xr.simulator@64.0.0/MetaXRSimulator/.synth_env_server/synth_env_server_Data/sharedassets3.assets filter=lfs diff=lfs merge=lfs -text

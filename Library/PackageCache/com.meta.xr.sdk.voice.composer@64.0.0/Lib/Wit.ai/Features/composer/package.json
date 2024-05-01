@@ -1,0 +1,10 @@
+{
+  "name": "com.meta.witai.composer",
+  "displayName": "Meta - Wit.ai - Composer",
+  "version": "64.0.0",
+  "author": {
+    "name": "Meta - Wit.ai",
+    "url": "https://wit.ai"
+  },
+  "description": "Composer is an add on to the Wit.ai VoiceService that routes all audio & text activations into the web based conversational composer diagram."
+}

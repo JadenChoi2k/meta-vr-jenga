@@ -1,0 +1,64 @@
+{
+  "name": "com.meta.xr.sdk.voice",
+  "displayName": "Meta - Voice SDK - Immersive Voice Commands",
+  "version": "64.0.0",
+  "description": "Voice SDK enables natural voice interactions for AR/VR apps, powered by Wit.ai.",
+  "samples": [
+    {
+      "displayName": "Shapes",
+      "description": "A scene that demonstrates using simple voice interactions to change shape colors.  The demo uses Wit intents & entities.",
+      "path": "Samples~/Shapes"
+    },
+    {
+      "displayName": "Shapes with Conduit",
+      "description": "A sample that demonstrates using simple voice interactions to change shape colors.  The demo uses Wit intents & entities along with Conduit for easier setup.",
+      "path": "Samples~/ShapesConduit"
+    },
+    {
+      "displayName": "Built-In Timer",
+      "description": "A scene that demonstrates using a Built-In Voice SDK configuration for simple voice interactions such as a timer.",
+      "path": "Samples~/BuiltInTimer"
+    },
+    {
+      "displayName": "TTS Voices",
+      "description": "A sample scene for performing text-to-speech requests by customizing two voices and having them speak.",
+      "path": "Samples~/TTSVoices"
+    },
+    {
+      "displayName": "TTS Lip Sync",
+      "description": "A sample scene showing multiple lip sync approaches using streamed viseme data from Wit TTS.",
+      "path": "Samples~/TTSLipSync"
+    },
+    {
+      "displayName": "Live Understanding",
+      "description": "A scene that demonstrates short response handling via live understanding.  Simply activate a voice interaction and state a color for an immediate deactivation & color application.",
+      "path": "Samples~/LiveUnderstanding"
+    },
+    {
+      "displayName": "Light Traits",
+      "description": "A scene that demonstrates using traits to turn a light on or off with voice.",
+      "path": "Samples~/LightTraits"
+    },
+    {
+      "displayName": "Chess with Conduit",
+      "description": "A sample that uses voice interactions to perform simple chess interactions.  This demo is also set up with Conduit for easier implementation and quicker performance.",
+      "path": "Samples~/Chess"
+    }
+  ],
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "author": {
+    "name": "Meta - Voice SDK",
+    "url": "https://wit.ai"
+  },
+  "documentationUrl": "https://developer.oculus.com/documentation/unity/",
+  "changelogUrl": "https://developer.oculus.com/downloads/package/unity-integration/",
+  "licensesUrl": "https://developer.oculus.com/licenses/oculussdk",
+  "licenseMessage": "By adding or using this package you agree to the terms and conditions of the Meta Platforms Technologies SDK License Agreement: https://developer.oculus.com/licenses/oculussdk",
+  "keywords": [
+    "SDK",
+    "Voice",
+    "Meta"
+  ],
+  "dependencies": {}
+}

@@ -1,0 +1,39 @@
+{
+  "name": "com.meta.xr.sdk.haptics",
+  "displayName": "Meta XR Haptics SDK",
+  "version": "64.0.0",
+  "description": "SDK for playback of haptics created in Meta Haptics Studio on Quest devices",
+  "samples": [
+    {
+      "displayName": "Meta XR Haptics Minimal Example",
+      "description": "Contains a minimal example scene, showcasing playback and modulation of haptics using the Haptics SDK.",
+      "path": "Samples~/IntegrationExample"
+    },
+    {
+      "displayName": "Meta XR Haptics Sample Packs",
+      "description": "Contains a selection of curated .haptic sample packs, designed with Meta Haptics Studio.",
+      "path": "Samples~/HapticPacks"
+    }
+  ],
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "author": {
+    "name": "Meta Platforms, Inc.",
+    "url": "https://developer.oculus.com/"
+  },
+  "documentationUrl": "https://developer.oculus.com/documentation/unity/",
+  "changelogUrl": "https://developer.oculus.com/downloads/package/unity-integration/",
+  "licensesUrl": "https://developer.oculus.com/licenses/oculussdk",
+  "licenseMessage": "By adding or using this package you agree to the terms and conditions of the Meta Platforms Technologies SDK License Agreement: https://developer.oculus.com/licenses/oculussdk",
+  "keywords": [
+    "SDK",
+    "Quest",
+    "XR",
+    "Meta",
+    "Oculus",
+    "Haptics"
+  ],
+  "dependencies": {
+    "com.meta.xr.sdk.core": "64.0.0"
+  }
+}

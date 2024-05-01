@@ -1,0 +1,24 @@
+{
+    "name": "Meta.Voice.Samples.Shapes",
+    "rootNamespace": "",
+    "references": [
+        "Meta.WitAi",
+        "Meta.WitAi.Lib",
+        "VoiceSDK.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

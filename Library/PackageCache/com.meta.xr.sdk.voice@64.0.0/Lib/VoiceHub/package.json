@@ -1,0 +1,12 @@
+{
+  "name": "com.meta.xr.sdk.voice.hub.vsdk",
+  "displayName": "Meta - Voice SDK - Hub - Voice",
+  "version": "64.0.0",
+  "samples": [],
+  "unity": "2019.4",
+  "author": {
+    "name": "Meta - Voice SDK",
+    "url": "https://wit.ai"
+  },
+  "description": "This is the extension package for Hub which provides documentation and sample access for the main Voice SDK package."
+}

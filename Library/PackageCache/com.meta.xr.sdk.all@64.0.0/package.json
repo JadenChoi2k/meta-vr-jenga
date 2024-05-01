@@ -1,0 +1,44 @@
+{
+  "name": "com.meta.xr.sdk.all",
+  "displayName": "Meta XR All-in-One SDK",
+  "version": "64.0.0",
+  "description": "Meta XR All-in-One SDK is a wrapper package that depends on the latest version of all Meta XR SDKs, making it easy to get started with VR development.",
+  "samples": [
+    {
+      "displayName": "Instructions",
+      "description": "Instructions for finding and using Meta XR Samples",
+      "path": "Samples~/Instructions"
+    }
+  ],
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "author": {
+    "name": "Meta Platforms, Inc.",
+    "url": "https://developer.oculus.com/"
+  },
+  "documentationUrl": "https://developer.oculus.com/documentation/unity/",
+  "changelogUrl": "https://developer.oculus.com/downloads/package/unity-integration/",
+  "licensesUrl": "https://developer.oculus.com/licenses/oculussdk",
+  "licenseMessage": "By adding or using this package you agree to the terms and conditions of the Meta Platforms Technologies SDK License Agreement: https://developer.oculus.com/licenses/oculussdk",
+  "keywords": [
+    "Quest",
+    "Oculus",
+    "Meta",
+    "SDK",
+    "XR"
+  ],
+  "dependencies": {
+    "com.meta.xr.sdk.audio": "64.0.0",
+    "com.meta.xr.sdk.interaction": "64.0.0",
+    "com.meta.xr.sdk.interaction.ovr": "64.0.0",
+    "com.meta.xr.sdk.platform": "64.0.0",
+    "com.meta.xr.sdk.core": "64.0.0",
+    "com.meta.xr.sdk.voice": "64.0.0",
+    "com.meta.xr.sdk.voice.composer": "64.0.0",
+    "com.meta.xr.sdk.voice.dictation": "64.0.0",
+    "com.meta.xr.sdk.voice.telemetry": "64.0.0",
+    "com.meta.xr.sdk.haptics": "64.0.0",
+    "com.meta.xr.simulator": "64.0.0",
+    "com.meta.xr.mrutilitykit": "64.0.0"
+  }
+}

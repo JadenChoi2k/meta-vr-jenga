@@ -1,0 +1,12 @@
+{
+  "name": "com.meta.witai",
+  "displayName": "Meta - Wit.ai",
+  "version": "64.0.0",
+  "samples": [],
+  "description": "wit-unity is the Unity SDK for Wit.ai. It provides convenience tools for activating Wit and processing the responses that are returned.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Meta - Wit.ai",
+    "url": "https://wit.ai"
+  }
+}

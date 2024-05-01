@@ -1,0 +1,27 @@
+{
+    "name": "VoiceSDK.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "AssistantVoiceCommandCommon",
+        "AssistantCoreSDKRuntime",
+        "Meta.WitAi",
+        "Meta.WitAi.Conduit",
+        "Meta.WitAi.Lib",
+        "Meta.WitAi.TTS"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

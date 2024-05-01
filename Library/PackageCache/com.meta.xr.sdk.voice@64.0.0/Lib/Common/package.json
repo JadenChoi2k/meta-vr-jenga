@@ -1,0 +1,13 @@
+{
+  "name": "com.meta.xr.sdk.voice.common",
+  "displayName": "Meta - Voice SDK - Support - Voice Commands Common",
+  "version": "64.0.0",
+  "dependencies": {
+    "com.meta.xr.sdk.voice.core": "64.0.0"
+  },
+  "author": {
+    "name": "Meta - Voice SDK - Support Modules",
+    "url": "https://wit.ai"
+  },
+  "description": "Core common scripts for voice commands shared across certain other packages."
+}

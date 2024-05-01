@@ -1,0 +1,32 @@
+{
+    "name": "VoiceSDK.Editor.Composer",
+    "rootNamespace": "",
+    "references": [
+        "AssistantCoreSDKRuntime",
+        "Meta.WitAi",
+        "Meta.WitAi.Conduit",
+        "VoiceSDK.Runtime",
+        "Meta.Wit.Composer",
+        "VoiceSDK.Runtime.Composer",
+        "Meta.WitAi.TTS",
+        "Meta.WitAi.TTS.Editor",
+        "Meta.WitAi.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice.composer",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

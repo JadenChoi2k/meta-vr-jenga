@@ -1,0 +1,28 @@
+{
+    "name": "Meta.Wit.Composer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Meta.Wit.Composer",
+        "Meta.WitAi.Lib",
+        "Meta.WitAi.Editor",
+        "Meta.WitAi",
+        "Meta.WitAI.Lib.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice.composer",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

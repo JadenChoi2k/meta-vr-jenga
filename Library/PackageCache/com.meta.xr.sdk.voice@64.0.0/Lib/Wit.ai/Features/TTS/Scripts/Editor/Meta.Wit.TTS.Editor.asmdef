@@ -1,0 +1,28 @@
+{
+    "name": "Meta.WitAi.TTS.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Meta.WitAi",
+        "Meta.WitAi.Editor",
+        "Meta.WitAi.TTS",
+        "Meta.WitAi.Lib",
+        "Meta.WitAI.Lib.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

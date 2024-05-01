@@ -1,0 +1,38 @@
+{
+    "name": "VoiceSDK.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VoiceSDK.Runtime",
+        "Meta.WitAi",
+        "Meta.WitAi.Editor",
+        "Meta.WitAi.TTS",
+        "Meta.WitAi.TTS.Editor",
+        "Meta.WitAi.Lib",
+        "Meta.Voice.Hub.Runtime",
+        "Meta.Voice.VSDKHub.Editor",
+        "Meta.Voice.Hub.Editor",
+        "VoiceSDK.Telemetry"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.meta.xr.sdk.voice.telemetry",
+            "expression": "",
+            "define": "VSDK_TELEMETRY_AVAILABLE"
+        },
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

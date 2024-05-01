@@ -1,0 +1,28 @@
+{
+    "use_batch_mode": false,
+    "//comment": "remove the prefix // to enable each configuration",
+    "//disable_compositor": true,
+    "//log_location": "meta_xrsim.log",
+    "log_level": "info",
+	"app_anchor_data": "anchors/app_anchors.json",
+    "tracking": {
+        "data_replay_method": "single",
+        "body" : {
+            "skeleton_data": "tracking/BodySkeletonMockData_Valid.json",
+            "joints_data": "tracking/BodyJointsMockData_Valid.json"
+        },
+        "hand": {
+            "enable": false,
+            "joints_path": "tracking/HandJointsMockData_Valid.json",
+            "mesh_path": "tracking/HandMeshesData_Valid.json"
+        }
+    },
+    "//comment: ses_texture_format": "Use gpu_handle for best performance or jpg for stability",
+    "ses_texture_format" : "gpu_handle",
+    "//comment: disable_config_cache": "If set to true, the configuration manager to read and parse json from disk whenever a property is read, rather than caching it. Useful for changing configuration during automated test runs.",
+    "//disable_config_cache": true,
+    "ses_protocol_version": "v2",
+    "//adb_path": "/path/to/your/adb.exe",
+    "//comment: userid_source_type": "Use 'platform' to retrieve the ovrplatform logged in user id. Use 'generated' to use a randomly generated id, use the export oxrsim_GetLoggedInUserID to retrieve the ID",
+    "userid_source_type": "generated"
+}

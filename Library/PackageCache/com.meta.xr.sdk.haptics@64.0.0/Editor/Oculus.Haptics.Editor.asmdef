@@ -1,0 +1,24 @@
+{
+    "name": "Oculus.Haptics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6607b780f0f7846258ca9a8a94a41218"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.haptics",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

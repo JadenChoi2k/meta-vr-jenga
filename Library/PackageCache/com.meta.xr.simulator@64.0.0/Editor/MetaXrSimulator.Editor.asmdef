@@ -1,0 +1,29 @@
+{
+    "name": "MetaXrSimulator.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Oculus.VR"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.meta.xr.sdk.core",
+            "expression": "63.0.0",
+            "define": "META_XR_SDK_CORE_SUPPORTS_TELEMETRY"
+        },
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.simulator",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Meta.Voice.VSDKHub.Editor",
+    "rootNamespace": "Meta.Voice.VSDKHub",
+    "references": [
+        "Meta.Voice.Hub.Editor",
+        "Meta.Voice.Hub.Runtime",
+        "VoiceSDK.Telemetry",
+        "Meta.WitAi.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

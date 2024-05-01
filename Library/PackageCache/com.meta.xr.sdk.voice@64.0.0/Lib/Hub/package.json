@@ -1,0 +1,12 @@
+{
+  "name": "com.meta.xr.sdk.voice.hub",
+  "displayName": "Meta - Voice SDK - Hub - Core",
+  "version": "64.0.0",
+  "samples": [],
+  "unity": "2019.4",
+  "author": {
+    "name": "Meta - Voice SDK",
+    "url": "https://wit.ai"
+  },
+  "description": "The Hub Core is a menu window which provides access to documentation, tutorials, and samples for components of Voice SDK"
+}

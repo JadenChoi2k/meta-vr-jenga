@@ -1,0 +1,26 @@
+{
+    "name": "VoiceSDK.Dictation.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "AssistantCoreSDKRuntime",
+        "Meta.WitAi",
+        "Meta.Wit.Dictation",
+        "VoiceSDK.Runtime",
+        "Meta.WitAi.Lib"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice.dictation",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

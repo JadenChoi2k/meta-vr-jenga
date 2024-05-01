@@ -1,0 +1,29 @@
+{
+    "name": "VoiceSDK.Runtime.Composer",
+    "rootNamespace": "",
+    "references": [
+        "AssistantVoiceCommandCommon",
+        "AssistantCoreSDKRuntime",
+        "Meta.WitAi.Lib",
+        "Meta.WitAi",
+        "Meta.WitAi.Conduit",
+        "Meta.WitAi.TTS",
+        "VoiceSDK.Runtime",
+        "Meta.Wit.Composer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "OVR_UNITY_PACKAGE_MANAGER",
+            "name": "com.meta.xr.sdk.voice.composer",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

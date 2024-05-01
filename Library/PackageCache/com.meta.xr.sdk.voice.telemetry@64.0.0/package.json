@@ -1,0 +1,20 @@
+{
+  "name": "com.meta.xr.sdk.voice.telemetry",
+  "displayName": "Meta - Voice SDK - Telemetry",
+  "version": "64.0.0",
+  "description": "The telemetry package provides insights into the operation of the VoiceSDK and its related packages so that we can improve the experience for everyone.",
+  "samples": [],
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "author": {
+    "name": "Meta - Voice SDK",
+    "url": "https://wit.ai"
+  },
+  "documentationUrl": "https://developer.oculus.com/documentation/unity/",
+  "changelogUrl": "https://developer.oculus.com/downloads/package/unity-integration/",
+  "licensesUrl": "https://developer.oculus.com/licenses/oculussdk",
+  "licenseMessage": "By adding or using this package you agree to the terms and conditions of the Meta Platforms Technologies SDK License Agreement: https://developer.oculus.com/licenses/oculussdk",
+  "keywords": [
+    "Meta"
+  ]
+}

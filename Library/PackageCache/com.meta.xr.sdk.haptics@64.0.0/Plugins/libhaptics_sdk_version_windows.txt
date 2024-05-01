@@ -1,0 +1,1 @@
+Haptics Native SDK 1.0.0-beta.2 (51f75c870b1c+), built on 2024-02-09T15:43:36Z for Windows

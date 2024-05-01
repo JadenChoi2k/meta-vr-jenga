@@ -1,0 +1,10 @@
+{
+  "name": "com.meta.xr.sdk.voice.core",
+  "displayName": "Meta - Voice SDK - Support - Core",
+  "version": "54.0.0",
+  "author": {
+    "name": "Meta - Voice SDK - Support Modules",
+    "url": "https://wit.ai"
+  },
+  "description": "Core internal features for VoiceSDK."
+}
